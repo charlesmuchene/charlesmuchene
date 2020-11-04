@@ -1,4 +1,4 @@
-# iOS/Android Software Engineer
+# Software Engineer
 
 Hi. I'm Charles.
 
