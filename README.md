@@ -1,8 +1,8 @@
 # Software Engineer
 
-Hi. I'm Charles.
+Hi,
 
-I work on mobile app solutions (iOS & Android). Let's [connect](https://twitter.com/charlesmuchene).
+I am Charles, a software engineer with a speciality in building mobile applications that meet business objectives and provide customer satisfaction. Let's [connect](https://www.linkedin.com/in/charlesmuchene).
 
 ---
-### [Blog](https://charlesmuchene.com) · [Twitter](https://twitter.com/charlesmuchene) · [LinkedIn](https://www.linkedin.com/in/charlesmuchene/)
+### [Blog](https://www.charlesmuchene.com) · [LinkedIn](https://www.linkedin.com/in/charlesmuchene/) · [Twitter](https://twitter.com/charlesmuchene)
