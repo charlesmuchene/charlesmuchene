@@ -1,8 +1,6 @@
 # Software Engineer
 
-Hi,
-
-I am a software engineer who loves building native mobile applications. Let's [connect](https://www.linkedin.com/in/charlesmuchene).
+I make **Android** apps and sometimes write about that here: [charlesmuchene.com](https://www.charlesmuchene.com).
 
 ---
-### [Blog](https://www.charlesmuchene.com) · [LinkedIn](https://www.linkedin.com/in/charlesmuchene/) · [Twitter](https://twitter.com/charlesmuchene)
+### [Blog](https://www.charlesmuchene.com) · [LinkedIn](https://www.linkedin.com/in/charlesmuchene/) · [X](https://twitter.com/charlesmuchene)
